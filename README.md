@@ -23,7 +23,7 @@
 
 <div align="center">
 
-**[► View Live Demo](https://your-deployment-link.com)** 
+**[► View Live Demo](https://mr-shoez.github.io/Stunning-gaming-website/)** 
 <!-- Replace with your live deployment link -->
 
 </div>
